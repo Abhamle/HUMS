@@ -6,11 +6,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{7C158D8D-897D-4686-8681-D69A3AA51705}</ProjectGuid>
+    <ProjectGuid>{595279F9-8083-4E18-91EE-0165F0CF447B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ContosoUniveristy.Tests</RootNamespace>
-    <AssemblyName>ContosoUniveristy.Tests</AssemblyName>
+    <RootNamespace>HawassaUniversity.Tests</RootNamespace>
+    <AssemblyName>HawassaUniversity.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -92,8 +92,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ContosoUniveristy\HawassaUniversity.csproj">
-      <Project>{79006C63-0C0B-4DC2-A1B7-9EC85FD3EAB0}</Project>
+    <ProjectReference Include="..\HawassaUniversity\HawassaUniversity.csproj">
+      <Project>{FCEC9341-4A6D-4942-9D70-793C612C1DFA}</Project>
       <Name>HawassaUniversity</Name>
     </ProjectReference>
   </ItemGroup>

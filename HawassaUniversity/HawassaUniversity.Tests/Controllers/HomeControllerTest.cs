@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ContosoUniveristy;
-using ContosoUniveristy.Controllers;
+using HawassaUniversity;
+using HawassaUniversity.Controllers;
 
-namespace ContosoUniveristy.Tests.Controllers
+namespace HawassaUniversity.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

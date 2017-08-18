@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{79006C63-0C0B-4DC2-A1B7-9EC85FD3EAB0}</ProjectGuid>
+    <ProjectGuid>{FCEC9341-4A6D-4942-9D70-793C612C1DFA}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ContosoUniveristy</RootNamespace>
-    <AssemblyName>ContosoUniveristy</AssemblyName>
+    <RootNamespace>HawassaUniversity</RootNamespace>
+    <AssemblyName>HawassaUniversity</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -221,9 +221,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>65409</DevelopmentServerPort>
+          <DevelopmentServerPort>54981</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:65409/</IISUrl>
+          <IISUrl>http://localhost:54981/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
