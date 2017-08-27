@@ -51,3 +51,7 @@ F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\bin\Newtonsoft.Json.xml
 F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\obj\Debug\HawassaUniversity.csprojResolveAssemblyReference.cache
 F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\obj\Debug\HawassaUniversity.dll
 F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\obj\Debug\HawassaUniversity.pdb
+F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\bin\EntityFramework.dll
+F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\bin\EntityFramework.SqlServer.dll
+F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\bin\EntityFramework.xml
+F:\JEMS\HUMS\HawassaUniversity\HawassaUniversity\bin\EntityFramework.SqlServer.xml
